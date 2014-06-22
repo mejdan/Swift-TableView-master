@@ -1,4 +1,5 @@
-Another-Swift-TableView
+Swift-TableView
 =======================
 
-Swift UITableView app that uses XIBs instead of storyboards
+Swift UITableView app that uses XIB With DetailView and Subtilte
+
